@@ -1,0 +1,101 @@
+[
+  {
+    "description": "Judi Admin Page 2.0 should render the trial Page",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 6651
+  },
+  {
+    "description": "Judi Admin Page 2.0 should have the correct title",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 272
+  },
+  {
+    "description": "Judi Admin Page 2.0 should give list of trials",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 431
+  },
+  {
+    "description": "Judi Admin Page 2.0 should go to detail page if click link",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 624
+  },
+  {
+    "description": "Judi Admin Page 2.0 should give all attributes",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 886
+  },
+  {
+    "description": "Judi Admin Page 2.0 should go to edit page when click on edit icon",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 2247
+  },
+  {
+    "description": "Judi Admin Page 2.0 should be able to give original values",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 313
+  },
+  {
+    "description": "Judi Admin Page 2.0 should be able to update textField value and give response",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 7435
+  },
+  {
+    "description": "Judi Admin Page 2.0 should be able to update options",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 7483
+  },
+  {
+    "description": "Judi Admin Page 2.0 should be able to give error message if form is not valid",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 3156
+  },
+  {
+    "description": "Judi Admin Page 2.0 should have readonly fields for certain attributes",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 302
+  }
+]
